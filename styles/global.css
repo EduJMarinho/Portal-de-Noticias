@@ -36,15 +36,15 @@ h1, h2, h3 {
 }
 
 .container {
- max-width: 1280px;
- padding-inline: 32px;
+ max-width: 1180px;
+ align-items: center;
  margin-inline: auto; 
-}
+ 
+ }
 
 /* utility-first */
 .grid {
   display: grid;
 }
 .grid-flow-col {
-  grid-auto-flow: column;
-}
+  grid-auto-flow: column;}
