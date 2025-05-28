@@ -13,10 +13,11 @@
   div:nth-child(3) {
     justify-self: end;    
   }
-}
+
 #secondary {
   padding-block: 14px;
   border: solid 1px var(--stroke-color);
-  border-inline: none;
-  justify-content:space-between;     
+   border-inline: none;
+  justify-content:space-between;     }
 }
+
